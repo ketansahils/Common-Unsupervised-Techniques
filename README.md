@@ -4,6 +4,7 @@ Contains code to run and visualize techniques like Clustering, PCA on publicly a
 * https://www3.nd.edu/~busiforc/handouts/DataMining/EastWestAirlinesCluster.xlsx
 * http://archive.ics.uci.edu/ml/datasets/Wine
 * http://yann.lecun.com/exdb/mnist/
+* https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 * https://www.python.org/downloads/release/python-360/
 * https://matplotlib.org/
 * https://www.numpy.org/
